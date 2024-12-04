@@ -1,7 +1,7 @@
 # Nexus-Prover
 ![image](https://github.com/user-attachments/assets/cc2288ab-958c-4c0c-ac81-9daa116318df)
 
-[Nexus raised $25M in Series A funding to bring zero-knowledge proofs to Internet scale.](https://blog.nexus.xyz/series-a/)
+[Nexus raises $25M in Series A funding to bring zero-knowledge proofs to Internet scale.](https://blog.nexus.xyz/series-a/)
 
 ## Install dependencies
 ```console
@@ -9,7 +9,7 @@ sudo apt update && sudo apt upgrade -y
 ```
 ```console
 # Install packages
-sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev protobuf-compiler  -y
+sudo apt install curl iptables screen build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev protobuf-compiler  -y
 ```
 ```console
 # Install Rust
