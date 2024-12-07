@@ -37,6 +37,6 @@ sudo curl https://cli.nexus.xyz/install.sh | sh
 * Copy the prover-id once you've verfied your email and paste in the terminal (make sure you save your prover-id).
 ## Note
 * `ctrl A + D` to detach from screen
-* `screen -r nexus` to reattach to screen
+* `screen -r nexus` to attach to screen
 * Your prover-id will be saved to `/root/.nexus` you can view with `cat /root/.nexus/prover-id`
 
